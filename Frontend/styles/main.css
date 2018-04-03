@@ -1,0 +1,29 @@
+.product_text {
+  border: solid black 2px;
+  overflow: scroll;
+  padding: 6px;
+  height: 100%;
+  width: 100%;
+}
+
+.product_content {
+  padding: 0;
+  margin: 5px;
+  height: 70vh;
+  width: 100vw;
+}
+
+.product_column {
+  flex-wrap: wrap;
+}
+
+.cart_button:hover {
+  cursor: pointer;
+  color: white;
+  transition: all .3s ease-in-out;
+}
+
+.product_img {
+  width: 11vw;
+  height: 8vw;
+}

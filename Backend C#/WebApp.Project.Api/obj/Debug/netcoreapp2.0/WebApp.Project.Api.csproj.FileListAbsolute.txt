@@ -1,0 +1,52 @@
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.deps.json
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.runtimeconfig.json
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.runtimeconfig.dev.json
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.pdb
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.csprojResolveAssemblyReference.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.csproj.CoreCompileInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.AssemblyInfoInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.AssemblyInfo.cs
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.pdb
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.csprojResolveAssemblyReference.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.csproj.CoreCompileInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.AssemblyInfoInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.AssemblyInfo.cs
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.pdb
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.deps.json
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.runtimeconfig.json
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.runtimeconfig.dev.json
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.pdb
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.deps.json
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.runtimeconfig.json
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.runtimeconfig.dev.json
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.dll
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.pdb
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.csprojResolveAssemblyReference.cache
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.csproj.CoreCompileInputs.cache
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.AssemblyInfoInputs.cache
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.AssemblyInfo.cs
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.dll
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.pdb
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.deps.json
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.runtimeconfig.json
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.runtimeconfig.dev.json
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.dll
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Api.pdb
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/bin/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.csprojResolveAssemblyReference.cache
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.csproj.CoreCompileInputs.cache
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.AssemblyInfoInputs.cache
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.AssemblyInfo.cs
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.dll
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Api/obj/Debug/netcoreapp2.0/WebApp.Project.Api.pdb

@@ -1,0 +1,45 @@
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.deps.json
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.csprojResolveAssemblyReference.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.csproj.CoreCompileInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.AssemblyInfoInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.AssemblyInfo.cs
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.deps.json
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.csprojResolveAssemblyReference.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.csproj.CoreCompileInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.AssemblyInfoInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.AssemblyInfo.cs
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.deps.json
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.csprojResolveAssemblyReference.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.csproj.CoreCompileInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.AssemblyInfoInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.AssemblyInfo.cs
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.deps.json
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.csprojResolveAssemblyReference.cache
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.csproj.CoreCompileInputs.cache
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.AssemblyInfoInputs.cache
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.AssemblyInfo.cs
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/henrikbielsten/Desktop/Test/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.deps.json
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Core/bin/Debug/netcoreapp2.0/WebApp.Project.Core.pdb
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.csprojResolveAssemblyReference.cache
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.csproj.CoreCompileInputs.cache
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.AssemblyInfoInputs.cache
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.AssemblyInfo.cs
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.dll
+/Users/henrikbielsten/Documents/Webbshop/Backend C#/WebApp.Project.Core/obj/Debug/netcoreapp2.0/WebApp.Project.Core.pdb

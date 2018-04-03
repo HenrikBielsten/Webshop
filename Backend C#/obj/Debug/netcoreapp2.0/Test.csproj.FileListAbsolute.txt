@@ -1,0 +1,3 @@
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/obj/Debug/netcoreapp2.0/Test.csproj.CoreCompileInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/obj/Debug/netcoreapp2.0/Test.AssemblyInfoInputs.cache
+/Users/sebastianpalm/Desktop/Skolarbete/2018/c#/Test/obj/Debug/netcoreapp2.0/Test.AssemblyInfo.cs
