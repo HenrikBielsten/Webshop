@@ -1,6 +1,6 @@
 <?php require __DIR__.'/../views/header.php'; ?>
 
-<a href="/pages/checkout.php"><button class="btn btn-success" type="button" name="button" >Go To Checkout!</button></a>
+<a href="/pages/checkout.php"><button class="checkout_button btn btn-success" type="button" name="button" >Go To Checkout!</button></a>
 
 <div class="d-flex justify-content-center row product_column">
 </div>

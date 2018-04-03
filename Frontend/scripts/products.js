@@ -61,9 +61,9 @@ fetch('http://localhost:5000/api/product', {
         product_content.appendChild(product_text);
 
         product_text.innerHTML += `<h1>${product_name}</h1>
+        <p>${product_price} Kr</p>
         <img class="product_img" src="${product_img}">
-        <p>${product_description}</p>
-        <p>${product_price} Kr</p>`;
+        <p class="product_description">${product_description}</p>`;
 
         const button = document.createElement('button');
         button.classList.add('btn');
@@ -74,8 +74,6 @@ fetch('http://localhost:5000/api/product', {
         button.addEventListener('click', (e) => {
 
           const cookie = localStorage.getItem('user');
-
-          console.log(cookie);
 
           const cart =
           {
