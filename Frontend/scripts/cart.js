@@ -1,4 +1,5 @@
 const cartId = localStorage.getItem('user');
+const cart_total = document.querySelector('.cart_total')
 
 fetch(`http://localhost:5000/api/cart/${cartId}`, {
   method: 'GET',
@@ -8,8 +9,19 @@ fetch(`http://localhost:5000/api/cart/${cartId}`, {
   })
 }).then(res => res.json())
 .then(carts => {
-    Array.from(carts).forEach(cart => {
+
+  carts = [...carts];
+
+  const totalPrice = carts.reduce((total, cart) => cart.price + total, 0);
+
+   const totalDiv = document.createElement('div');
+   cart_total.appendChild(totalDiv);
+   totalDiv.innerHTML = 'Total price: ' + totalPrice + ' kr';
+
+    carts.forEach(cart => {
+
     const cartList = document.querySelector('.product_column');
+
     cartList.innerHTML += `
     <div class="cart_content">
     <h3>${cart.name}</h3>
@@ -18,7 +30,9 @@ fetch(`http://localhost:5000/api/cart/${cartId}`, {
     <p class="cart_description">${cart.description}</p>
     <button class="RemoveCart btn btn-danger" type="button" value="${cart.id}" name="button">Remove from cart</button>
     </div>`
+
     const RemoveCarts = document.querySelectorAll('.RemoveCart');
+
     Array.from(RemoveCarts).forEach(RemoveCart => {
       RemoveCart.addEventListener('click', () => {
       fetch(`http://localhost:5000/api/cart/${cartId}/${RemoveCart.value}`, {

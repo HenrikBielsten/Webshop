@@ -50,7 +50,7 @@
 
 .product_img {
   width: 85%;
-  height: 40%;
+  height: 55%;
 }
 
 .cart_img {
@@ -59,7 +59,7 @@
 }
 
 .checkout_button {
-  position: fixed;
+
 }
 
 .RemoveCart {
@@ -68,4 +68,9 @@
 
 .cart_price {
   font-size: 10px;
+}
+
+.cart_total {
+  width: 80vw;
+  height: 20vh;
 }

@@ -3,21 +3,6 @@ const productsLists = document.querySelectorAll('.products');
 const product_container = document.querySelector('.product_container');
 const product_row = document.querySelector('.product_row');
 const product_columns = document.querySelectorAll('.product_column');
-// const cart =
-// {
-//     "cartid": "32",
-//     "productid": "20"
-// }
-
-// fetch('http://localhost:5000/api/cart', {
-//   method: 'POST', // or 'PUT'
-//   body: JSON.stringify(cart),
-//   headers: new Headers({
-//     'Accept': 'application/json',
-//         'Content-Type': 'application/json'
-//   })
-// }).then(res => res.json())
-// .then(response => console.log('Success:', response));
 
 function guid() {
   function s4() {
