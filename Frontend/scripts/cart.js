@@ -33,8 +33,15 @@ fetch(`http://localhost:5000/api/cart/${cartId}`, {
 
     const RemoveCarts = document.querySelectorAll('.RemoveCart');
 
+    // console.log(cart);
+
+    // cart.splice(cart.indexOf(RemoveCart.value = cart.id), 1 );
+
     Array.from(RemoveCarts).forEach(RemoveCart => {
       RemoveCart.addEventListener('click', () => {
+
+      this.element.remove();
+
       fetch(`http://localhost:5000/api/cart/${cartId}/${RemoveCart.value}`, {
         method: 'DELETE',
         headers: new Headers({
