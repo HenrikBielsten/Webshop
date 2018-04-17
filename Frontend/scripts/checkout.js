@@ -42,7 +42,7 @@ fetch(`http://localhost:5000/api/checkout/${cartId}`, {
 
   checkoutbutton.addEventListener('click', (event) => {
 
-  const fulladress = street.value+' '+city.value+' '+post_code.value;
+  const fulladress = street.value+', '+city.value+', '+post_code.value;
   const email = emailDiv.value;
   const name = nameDiv.value;
 

@@ -6,7 +6,7 @@
 </nav>
 <br>
 
-<form action="#">
+<form action="/pages/ordered.php">
   <h4 style="text-decoration: underline; font-weight: bold;">Personal Information</h4>
   <div class="form-group">
     <label for="exampleFormControlInput1">Name</label>
