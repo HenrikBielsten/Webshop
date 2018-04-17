@@ -29,7 +29,7 @@ fetch(`http://localhost:5000/api/cart/${cartId}`, {
     <img class="cart_img" src=${cart.productImage}>
     <p class="cart_description">${cart.description}</p>
     <button class="RemoveCart btn btn-danger" type="button" value="${cart.id}" name="button">Remove from cart</button>
-    </div>`
+    </div>`;
 
     const RemoveCarts = document.querySelectorAll('.RemoveCart');
 
@@ -40,7 +40,7 @@ fetch(`http://localhost:5000/api/cart/${cartId}`, {
     Array.from(RemoveCarts).forEach(RemoveCart => {
       RemoveCart.addEventListener('click', () => {
 
-      this.element.remove();
+      // this.element.remove();
 
       fetch(`http://localhost:5000/api/cart/${cartId}/${RemoveCart.value}`, {
         method: 'DELETE',

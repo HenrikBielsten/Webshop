@@ -5,7 +5,7 @@
 <div class="">
 
   <nav class="cart_total navbar navbar-expand-lg navbar-light bg-white d-flex justify-content-between align-items-center">
-    <a href="/pages/checkout.php"><button class="checkout_button btn btn-success" type="button" name="button" >Go To Checkout!</button></a>
+    <a href="checkout.php"><button class="checkout_button btn btn-success" type="button" name="button" >Go To Checkout!</button></a>
 
   </nav>
 

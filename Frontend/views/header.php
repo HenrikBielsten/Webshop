@@ -23,16 +23,11 @@
          <li class="nav-item">
            <a class="nav-link" href="../pages/products.php">Products</a>
          </li>
-         <li class="nav-item dropdown">
-           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-             Dropdown
-           </a>
-           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-             <a class="dropdown-item" href="#">Login</a>
-             <a class="dropdown-item" href="../pages/cart.php">Go to Cart</a>
-             <div class="dropdown-divider"></div>
-             <a class="dropdown-item" href="#">Register</a>
-           </div>
+         <li class="nav-item">
+           <a class="nav-link" href="../pages/cart.php">Cart</a>
+         </li>
+         <li class="nav-item">
+           <a class="nav-link" href="../pages/checkout.php">Checkout</a>
          </li>
        </ul>
      </div>
@@ -40,4 +35,4 @@
        <a class="" href="../pages/cart.php"><img src="/../images/cart.png" width="30" height="30" alt=""></a>
      </li>
    </nav>
-   <div class="container"
+   <div class="container">

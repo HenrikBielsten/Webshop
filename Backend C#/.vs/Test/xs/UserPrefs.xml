@@ -1,8 +1,16 @@
 ﻿<Properties StartupConfiguration="{12588E72-6625-458B-91D3-3AEAD3D4495F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp.Project.Core/Models/CartProductModel.cs">
+  <MonoDevelop.Ide.ItemProperties.Webapp.Project.Core.UnitTests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp.Project.Core/Services/Implementations/CheckoutService.cs">
     <Files>
       <File FileName="WebApp.Project.Api/Controllers/CartController.cs" Line="1" Column="1" />
       <File FileName="WebApp.Project.Core/Models/CartProductModel.cs" Line="1" Column="1" />
+      <File FileName="Webbapp.Project.Core.UnitTests/Class1.cs" Line="1" Column="1" />
+      <File FileName="WebApp.Project.Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="WebApp.Project.Api/Properties/launchSettings.json" Line="5" Column="5" />
+      <File FileName="WebApp.Project.Api/Controllers/CheckoutController.cs" Line="48" Column="1" />
+      <File FileName="WebApp.Project.Core/Models/CheckoutModel.cs" Line="13" Column="9" />
+      <File FileName="WebApp.Project.Core/Repositories/Implementations/CheckoutRepository.cs" Line="51" Column="2" />
+      <File FileName="WebApp.Project.Core/Services/Implementations/CheckoutService.cs" Line="25" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
