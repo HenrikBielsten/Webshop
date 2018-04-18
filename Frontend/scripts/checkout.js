@@ -42,7 +42,7 @@ fetch(`http://localhost:5000/api/checkout/${cartId}`, {
 
   document.querySelector('.form').addEventListener('submit', (event) => {
     event.preventDefault();
-    
+
   const fulladress = street.value+', '+city.value+', '+post_code.value;
   const email = emailDiv.value;
   const name = nameDiv.value;
@@ -63,7 +63,10 @@ fetch(`http://localhost:5000/api/checkout/${cartId}`, {
       'Content-Type': 'application/json'
     })
   })
-  .then(response => console.log('Success:', response));
-  localStorage.removeItem('user');
+  .then(response => console.log('Success:', response))
+  .then(remove => localStorage.removeItem('user'))
+  .then(redirect => window.location.replace("/../pages/ordered.php"));
+
+
 })
 });
