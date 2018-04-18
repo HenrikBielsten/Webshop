@@ -3,12 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Test.Project.Core.Services.Implementations;
-using Test.Project.Core.Repositories.Implementations;
-using Test.Project.Core.Models;
-using Microsoft.Extensions.Configuration;
+using WebApp.Project.Core.Services.Implementations;
 using WebApp.Project.Core.Repositories.Implementations;
 using WebApp.Project.Core.Models;
+using Microsoft.Extensions.Configuration;
 
 namespace WebApp.Project.Api.Controllers
 {

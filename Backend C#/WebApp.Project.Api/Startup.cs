@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace Test.Project.Api
+namespace WebApp.Project.Api
 {
     public class Startup
     {

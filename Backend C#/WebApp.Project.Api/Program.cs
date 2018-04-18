@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Test.Project.Api
+namespace WebApp.Project.Api
 {
     public class Program
     {

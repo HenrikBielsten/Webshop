@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using WebApp.Project.Core.Repositories.Implementations;
 using WebApp.Project.Core.Models;
-using Test.Project.Core.Models;
 
-namespace Test.Project.Core.Services.Implementations
+namespace WebApp.Project.Core.Services.Implementations
 {
     public class CartService
     {

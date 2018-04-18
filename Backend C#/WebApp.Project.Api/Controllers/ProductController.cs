@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Test.Project.Core.Services.Implementations;
+using WebApp.Project.Core.Services.Implementations;
 using Microsoft.Extensions.Configuration;
-using Test.Project.Core.Models;
-using Test.Project.Core.Repositories.Implementations;
+using WebApp.Project.Core.Models;
+using WebApp.Project.Core.Repositories.Implementations;
+using WebApp.Project.Core.Repositories;
+using WebApp.Project.Core.Services;
+
 
 namespace WebApp.Project.Api.Controllers
 {
@@ -29,27 +32,6 @@ namespace WebApp.Project.Api.Controllers
         {
             return this.productService.GetAll();
         }
-
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public ProductModel Get(int id)
-        {
-            return this.productService.Get(id);
-        }
-
-        //// POST api/values
-        //[HttpPost]
-        //public void Post([FromBody]ProductModel news)
-        //{
-        //    if (news.Id <= 0)
-        //    {
-        //        this.productService.Create(news);
-        //    }
-        //    else
-        //    {
-        //        this.productService.Edit(news);
-        //    }
-        //}
 
         // PUT api/values/5
         [HttpPut("{id}")]

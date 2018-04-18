@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using Test.Project.Core.Models;
-using Test.Project.Core.Repositories.Implementations;
+using WebApp.Project.Core.Models;
+using WebApp.Project.Core.Repositories;
+using WebApp.Project.Core.Repositories.Implementations;
 
-namespace Test.Project.Core.Services.Implementations
+namespace WebApp.Project.Core.Services.Implementations
 {
-    public class ProductService
+    public class ProductService : IProductService
     {
-        private readonly ProductRepository productRepository;
+        private readonly IProductRepository productRepository;
 
-        public ProductService(ProductRepository productRepository)
+        public ProductService(IProductRepository productRepository)
         {
             this.productRepository = productRepository;
         }
@@ -18,36 +19,6 @@ namespace Test.Project.Core.Services.Implementations
         {
             return this.productRepository.GetAll();
         }
-
-        public ProductModel Get(int id)
-        {
-            if (id <= 0)
-            {
-                return null;
-            }
-
-            return this.productRepository.Get(id);
-        }
-
-        //public bool Create(ProductModel product)
-        //{
-        //    //if (int.IsNullOrEmpty(product.Id) || string.IsNullOrEmpty(product.Slug))
-        //    //{
-        //    //    return false;
-        //    //}
-        //    return this.productRepository.Create(product);
-        //}
-
-        //public bool Edit(ProductModel product)
-        //{
-        //    //if (product.Id <= 0 || int.IsNullOrEmpty(product.Id) || string.IsNullOrEmpty(product.Slug))
-        //    //{
-        //    //    return false;
-        //    //}
-
-        //    return this.productRepository.Edit(product);
-        //}
-
 
     }
 }

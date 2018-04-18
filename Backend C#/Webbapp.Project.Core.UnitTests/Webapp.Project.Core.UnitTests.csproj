@@ -4,4 +4,16 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="6.10.6" />
+    <PackageReference Include="Dapper" Version="1.50.4" />
+    <PackageReference Include="FakeItEasy" Version="4.5.1" />
+    <PackageReference Include="NUnit" Version="3.10.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebApp.Project.Core\WebApp.Project.Core.csproj" />
+    <ProjectReference Include="..\WebApp.Project.Api\WebApp.Project.Api.csproj" />
+  </ItemGroup>
 </Project>

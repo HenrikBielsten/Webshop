@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Test.Project.Core.Models
+namespace WebApp.Project.Core.Models
 {
     public class ProductModel
     {
