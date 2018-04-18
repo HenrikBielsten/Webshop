@@ -40,8 +40,9 @@ fetch(`http://localhost:5000/api/checkout/${cartId}`, {
   const checkoutbutton = document.querySelector('.checkoutbutton');
 
 
-  checkoutbutton.addEventListener('click', (event) => {
-
+  document.querySelector('.form').addEventListener('submit', (event) => {
+    event.preventDefault();
+    
   const fulladress = street.value+', '+city.value+', '+post_code.value;
   const email = emailDiv.value;
   const name = nameDiv.value;

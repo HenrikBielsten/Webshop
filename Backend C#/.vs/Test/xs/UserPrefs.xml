@@ -1,15 +1,22 @@
 ﻿<Properties StartupConfiguration="{12588E72-6625-458B-91D3-3AEAD3D4495F}|Default">
-  <MonoDevelop.Ide.ItemProperties.Webapp.Project.Core.UnitTests FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp.Project.Api/Controllers/ProductController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp.Project.Api/Controllers/CheckoutController.cs">
     <Files>
-      <File FileName="WebApp.Project.Core/Repositories/IProductRepository.cs" Line="10" Column="2" />
-      <File FileName="WebApp.Project.Core/Repositories/Implementations/ProductRepository.cs" Line="36" Column="2" />
+      <File FileName="WebApp.Project.Core/Repositories/IProductRepository.cs" Line="11" Column="1" />
+      <File FileName="WebApp.Project.Core/Repositories/Implementations/ProductRepository.cs" Line="25" Column="10" />
       <File FileName="WebApp.Project.Core/Services/IProductService.cs" Line="10" Column="2" />
-      <File FileName="WebApp.Project.Core/Services/Implementations/ProductService.cs" Line="8" Column="2" />
+      <File FileName="WebApp.Project.Core/Services/Implementations/ProductService.cs" Line="21" Column="10" />
       <File FileName="WebApp.Project.Core/Models/ProductModel.cs" Line="7" Column="1" />
-      <File FileName="Webbapp.Project.Core.UnitTests/ProductServiceTest.cs" Line="13" Column="54" />
-      <File FileName="WebApp.Project.Api/Controllers/ProductController.cs" Line="38" Column="10" />
+      <File FileName="Webbapp.Project.Core.UnitTests/ProductServiceTest.cs" Line="28" Column="34" />
+      <File FileName="WebApp.Project.Api/Controllers/ProductController.cs" Line="34" Column="10" />
+      <File FileName="WebApp.Project.Api/Controllers/CheckoutController.cs" Line="9" Column="42" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
