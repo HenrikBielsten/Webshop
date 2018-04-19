@@ -9,7 +9,7 @@
       <File FileName="Webbapp.Project.Core.UnitTests/ProductServiceTest.cs" Line="28" Column="34" />
       <File FileName="WebApp.Project.Api/Controllers/ProductController.cs" Line="34" Column="10" />
       <File FileName="WebApp.Project.Api/Controllers/CheckoutController.cs" Line="9" Column="42" />
-      <File FileName="WebApp.Project.Api/appsettings.json" Line="3" Column="26" />
+      <File FileName="WebApp.Project.Api/appsettings.json" Line="3" Column="25" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">

@@ -1,5 +1,8 @@
 <?php require __DIR__.'/../views/header.php'; ?>
 
+<div class="d-flex justify-content-center row product_column">
+</div>
+
 <br>
 <br>
 <nav class="cart_total d-flex justify-content-between" style="font-weight: bold; height: 8vh; margin: 0; border-bottom: 2px solid orange;">

@@ -17,6 +17,19 @@ fetch(`http://localhost:5000/api/checkout/${cartId}`, {
 
   const totalPrice = carts.reduce((total, cart) => cart.price + total, 0);
 
+  carts.forEach(cart => {
+
+  const cartList = document.querySelector('.product_column');
+
+  cartList.innerHTML += `
+  <div class="cart_content">
+  <h3>${cart.name}</h3>
+  <p class="cart_price">Price: ${cart.price} kr</p>
+  <img class="cart_img" src=${cart.productImage}>
+  <p class="cart_description">${cart.description}</p>
+  </div>`;
+})
+
    const totalDiv = document.createElement('div');
    cart_total.appendChild(totalDiv);
    totalDiv.innerHTML = 'Sum of products: ' + totalPrice + ' kr';
